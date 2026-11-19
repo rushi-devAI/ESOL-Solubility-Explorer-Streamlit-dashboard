@@ -10,6 +10,7 @@ This dashboard explores the relationship between molecular structure and aqueous
   - *Ring & H-Bond Analysis:* Polar surface area scatter plot and solubility distributions grouped by ring count and H-bond donors.
   - *Dataset Records:* Searchable table of filtered compound entries.
 
+**Live Dashboard:** https://esol-solubility-explorer-app-dashboard-hjvoxnmyvsbtubmdt7a98d.streamlit.app/
   ## How to Run Locally
 ```bash
 git clone [https://github.com/](https://github.com/)<your-username>/<your-repo-name>.git
