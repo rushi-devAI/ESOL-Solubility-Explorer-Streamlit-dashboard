@@ -1,0 +1,1 @@
+This dashboard explores the relationship between molecular structure and aqueous solubility ($\log S$) using the Delaney (ESOL) dataset. It allows users to filter compounds by structural descriptors and compare experimental solubility measurements against ESOL model predictions.
